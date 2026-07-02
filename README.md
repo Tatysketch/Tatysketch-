@@ -126,7 +126,7 @@ Estou sempre aberta para aprender, trocar experiências e acompanhar profissiona
 
 
 📧 **Email:** [Tatielle2019@gmail.com](mailto:Tatielle2019@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/tatielle-pereira-dias-307a291b2](https://linkedin.com/in/tatielle-pereira-dias-307a291b2)  
+🔗 **LinkedIn:** [linkedin.com/in/tatielle-pereira-dias02](https://linkedin.com/in/tatielle-pereira-dias02)  
 🐙 **GitHub:** [github.com/Tatysketch](https://github.com/Tatysketch)
 
 
