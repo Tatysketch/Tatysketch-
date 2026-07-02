@@ -1,77 +1,132 @@
-# 👩‍💻 **Tatysketch | Apresentação Profissional**
+# 👩🏻‍💻 Tatielle Dias | Portfólio de Porjetos
 
-## 🙋‍♀️ Sobre Mim
+Seja bem-vindo(a) ao meu GitHub!
 
-Olá! Eu sou a **Tati**, criadora do perfil **Tatysketch** 💻  
-🎓 Estudante de **Tecnologia da Informação** — formatura prevista para **2026**  
-🚀 Apaixonada por tecnologia, inovação e projetos que transformam ideias em soluções reais  
-🏅 Conquista recente: **nota máxima** em projeto de **Git e GitHub**!
+Sou estudante de Gestão da Tecnologia da Informação e atualmente atuo na Torre de Controle, onde venho desenvolvendo uma visão analítica voltada para processos, organização e melhoria contínua.
 
----
-
-## 💡 **Projetos em Destaque**
-
-### 🔹 [📐 IMC](https://github.com/Tatysketch/IMC)  
-Cálculo de Índice de Massa Corporal com Python — simples, funcional e direto ao ponto.
-
-### 🔹 [📊 E-Shop Brasil Big Data](https://github.com/Tatysketch/e-shop-brasil-bigdata)  
-Estudo de caso com banco de dados, Docker e Streamlit — análise de dados em larga escala.
+Criei este espaço para compartilhar minha evolução na área de tecnologia por meio de projetos acadêmicos e estudos práticos, registrando cada etapa da minha jornada profissional.
 
 ---
 
-## 🏆 **Conquistas Acadêmicas**
+# 👩🏻‍💼 Sobre mim
 
-### 🔧 Ferramentas em Python  
-📌 Estudo de caso com aplicação prática  
-✅ **Nota:** 10  
-📚 **Aprendizado:** automação, análise de dados, boas práticas de programação
+🎓 Estudante de Gestão da Tecnologia da Informação
 
----
+💼 Atualmente atuando na Torre de Controle
 
-### 🌐 Redes de Computadores  
-📌 Trabalho prático sobre redes e protocolos  
-✅ **Nota:** 10  
-📚 **Aprendizado:** estrutura de redes, TCP/IP, roteamento e segurança
+📊 Em desenvolvimento para construir uma carreira em Análise de Dados
+
+📚 Acredito no aprendizado contínuo e busco transformar conhecimento em soluções práticas por meio dos projetos que desenvolvo.
 
 ---
 
-### 📊 Projeto de Big Data  
-📌 Projeto em grupo com foco em dados massivos  
-👏 **Feedback:** excelente retorno do tutor  
-🛠️ **Ferramentas:** Docker, Streamlit, banco de dados relacional
+# 🚀 Objetivo
+
+Meu objetivo é construir uma carreira em Análise de Dados, unindo minha experiência operacional, pensamento analítico e tecnologia para contribuir com melhorias de processos e tomada de decisão baseada em dados.
 
 ---
 
-### 🎨 Infográfico no Canva  
-📌 Criação de infográfico informativo sobre tecnologia  
-🖌️ **Ferramenta:** Canva  
-🌟 **Resultado:** trabalho bem avaliado pela organização e criatividade
+# 🛠️ Tecnologias e ferramentas utilizadas em projetos
+
+Ao longo da graduação e dos projetos acadêmicos, tive contato com:
+
+• Python
+
+• SQL
+
+• Git
+
+• GitHub
+
+• HTML
+
+• Docker
+
+• Streamlit
+
+• Banco de Dados
+
+• OpenEdge ABL
+
+• Power BI (em desenvolvimento)
+
+• Microsoft Azure (projetos acadêmicos)
+
+Estou em constante aprendizado e utilizo meus projetos como oportunidade para colocar esses conhecimentos em prática.
 
 ---
 
-## 🌱 Em Busca de Novos Desafios
+# 📂 Projetos em destaque
 
-Essas experiências reforçam minha paixão por tecnologia e minha vontade de seguir aprendendo e contribuindo com projetos inovadores.  
-💬 Estou sempre aberta a novas oportunidades de colaboração e desenvolvimento!
+### 📊 Calculadora de IMC
+
+Aplicação desenvolvida em Python para cálculo do Índice de Massa Corporal, com foco na prática da lógica de programação e utilização do Git/GitHub.
 
 ---
 
-## 🌐 Me encontre por aqui
+### 🗄️ E-Shop Brasil Big Data
+
+Estudo de caso envolvendo Banco de Dados e Big Data, utilizando tecnologias como Docker e Streamlit para análise e organização de dados.
+
+---
+
+### 🤖 Rota Inteligente com IA
+
+Projeto voltado para otimização de rotas utilizando algoritmos como Grafos, A* e K-Means, aplicado a um cenário empresarial.
+
+---
+
+### 📈 Rotatividade de Colaboradores
+
+Projeto desenvolvido para análise de indicadores relacionados à rotatividade, buscando compreender dados e apoiar a tomada de decisão.
+
+---
+
+# 🏆 Alguns projetos acadêmicos
+
+Durante minha graduação desenvolvi projetos envolvendo diferentes áreas da tecnologia, entre eles:
+
+✔ Segurança da Informação
+
+✔ Redes de Computadores
+
+✔ Banco de Dados
+
+✔ Big Data
+
+✔ Inteligência Artificial
+
+✔ Python
+
+✔ Git e GitHub
+
+Cada projeto representa uma etapa importante da minha evolução e contribui para o desenvolvimento das minhas habilidades técnicas e analíticas.
+
+---
+
+# 🌱 Atualmente estudando
+
+📚 Python
+
+📚 SQL
+
+📚 Power BI
+
+📚 Banco de Dados
+
+📚 Análise de Dados
+
+📚 Segurança da Informação
+
+---
+
+# 🤝 Vamos nos conectar?
+
+Estou sempre aberta para aprender, trocar experiências e acompanhar profissionais da área de tecnologia.
 
 
 📧 **Email:** [Tatielle2019@gmail.com](mailto:Tatielle2019@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/tatielle-pereira-dias-307a291b2](https://linkedin.com/in/tatielle-pereira-dias-307a291b2)  
 🐙 **GitHub:** [github.com/Tatysketch](https://github.com/Tatysketch)
-
-
-
-
-
-
-
-
-
-
-
 
 
